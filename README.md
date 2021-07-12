@@ -8,19 +8,7 @@ The Northern Alliance of Scotland is a regional improvement collaborative, spann
 
 The aim of this collaboration is to determine what data sources and analytical techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result – which will further allow individual school settings, local authorities and other bodies to plan targeted interventions to reduce it.
 
-You can read more about the project [here](_background/project.md).
-
-### CivicDataLab
-
-CivicDataLab ([CDL](https://civicdatalab.in/)) works with the goal to use data, tech, design and social science to strengthen the course of civic engagements in India. We work to harness the potential of open-source movement toggit enable citizens to engage better with public reforms. We aim to grow data and tech literacy of governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale.
-
-### Data for Children Collaborative
-
-[The Data for Children Collaborative with UNICEF](https://www.dataforchildrencollaborative.com/) is a unique partnership between UNICEF, The Scottish Government and the University of Edinburgh, hosted by The Data Lab. 
-
-Our goal is to leverage expertise from each of our partner organisations in order to address existing problems for children using innovative data science techniques. 
-
-In today's fast-paced technological landscape, where data is a driving force and evidence is vital to decision making, we want to **provide the platform** that brings together the **data, skills and expertise** to answer our challenge questions. Our role is to build and support project teams to produce real-world impacts that help the world's children. 
+You can read more about the project objectives [here](_background/project.md).
 
 ## Methodology
 
@@ -36,6 +24,18 @@ In today's fast-paced technological landscape, where data is a driving force and
 - Stakeholder Interviews
 - Data Exploration
 - Platform Architecture
+
+## Partners
+
+### CivicDataLab
+
+CivicDataLab ([CDL](https://civicdatalab.in/)) works with the goal to use data, tech, design and social science to strengthen the course of civic engagements in India. We work to harness the potential of open-source movement toggit enable citizens to engage better with public reforms. We aim to grow data and tech literacy of governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale.
+
+### Data for Children Collaborative
+
+[The Data for Children Collaborative with UNICEF](https://www.dataforchildrencollaborative.com/) is a unique partnership between UNICEF, The Scottish Government and the University of Edinburgh, hosted by The Edinburgh Futures Institute.
+
+In today’s fast-paced technological landscape, where data is a driving force and evidence is vital to decision making, we want to use data to produce real-world impacts that help the world’s children. Our goal is to leverage the appropriate data and expertise from our community in order to address existing problems for children using innovative data science techniques. 
 
 ## Contributions
 
