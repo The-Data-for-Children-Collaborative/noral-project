@@ -76,10 +76,27 @@ class: left bottom
 ]
 
 .right-column[
+#### Understanding The Key Stakeholders
 
-#### Understanfing The Key Stakeholders
+[Survey](https://comms.civicdatalab.in/form/4)
+  - Identify what kind of information/data do stakeholders seek/prefer to understand about the needs of children and young people in relation to education in their area.
+  - Determine what data sources, tools and techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result.
 
+[Workshop](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/01-stakeholder-engagement/01.03-workshop.md)  
+Information on the following fronts from key stakeholders:
+  - Resources and Tools engaged with and their experiences.
+  - Feasibility and Impact for possibly shortlisted feature set.
+  - Key Experiences and Feedback interacting with related resources.
 ]
+
+---
+
+## Resources
+
+- [GitHub Repository](https://github.com/The-Data-for-Children-Collaborative/noral-project)
+- [Contact E-mail](mailto:education@civicdatalab.in)
+
+
 ---
 ## Typography
 
