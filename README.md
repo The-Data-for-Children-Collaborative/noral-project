@@ -1,35 +1,14 @@
 # NORAL | Platform Research
 
-> Research around the data, tech, design and social science to build the NORAL project platform.
-
-## Table of Contents
-
-[Background](#background)
-- [The Project](#the-project)
-- [CivicDataLab](#civicdatalab)
-- [Data for Children Collaborative](#data-for-children-collaborative)
-
-[Methodology](#methodology)
-- [Active Threads](#active-threads)
-- [Activity X](#activity-x)
-
-[Contributions](#contributions)
-
-[Repo Structure](#repo-structure)
-
-[License](#license)
+> How do we use novel data sets and techniques to effectively understand the impact of child poverty on education within urban and rural contexts?
 
 ## Background
 
-### The Project
+The Northern Alliance of Scotland is a regional improvement collaborative, spanning across and supporting 8 local authorities and their associated school settings to improve education and reduce the poverty related attainment gap. Within these settings, children, young people and their families live across a diverse range of urban and rural settlements.
 
-The aim of this collaboration is to determine what data sources and techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result – which will further allow individual school settings, local authorities and other bodies to plan targeted interventions to reduce it.
+The aim of this collaboration is to determine what data sources and analytical techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result – which will further allow individual school settings, local authorities and other bodies to plan targeted interventions to reduce it.
 
-Developed through our [Impact Collaborations process](https://www.dataforchildrencollaborative.com/impact-collaborations-1), this project has brought together academic expertise from the Fraser of Allander Institute at the [University of Strathclyde](https://www.strath.ac.uk/business/economics/fraserofallanderinstitute/) and [Glasgow Caledonian University](https://www.gcu.ac.uk/), and data science expertise at [CivicDataLab](https://civicdatalab.in/) and [East Neuk Analytics](https://eastneukanalytics.com/). During this initial phase, the team will work in partnership with [Northern Alliance](https://northernalliance.scot/) and the Local Authorities they represent.
-
-The objective within this initial phase is to work with stakeholders to identify the shared knowledge gap across local authorities, identify the most appropriate indicators and map the suitable data sources that can be used at the school catchment aggregation.
-
-You can read more about the project [here](https://www.dataforchildrencollaborative.com/poverty/northern-alliance).
+You can read more about the project [here](_background/project.md).
 
 ### CivicDataLab
 
@@ -47,14 +26,16 @@ In today's fast-paced technological landscape, where data is a driving force and
 
 ### Active Threads
 
-- [Activity 01](https://github.com/The-Data-for-Children-Collaborative/noral-user-research) : Stakeholder Research
-- [Activity 02](https://github.com/The-Data-for-Children-Collaborative/noral-design-research) : Design Research
-- [Activity 03](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research) : Tech Research
+- [Stakeholder Research](https://github.com/The-Data-for-Children-Collaborative/noral-user-research)
+- [Design Research](https://github.com/The-Data-for-Children-Collaborative/noral-design-research)
+- [Tech Research](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research)
 
-### Activity X
+### Upcoming Threads
 > Upcoming activities on the project.
 
-`<< TBU >>`
+- Stakeholder Interviews
+- Data Exploration
+- Platform Architecture
 
 ## Contributions
 
@@ -66,8 +47,8 @@ The active project to track all the research is available [here](https://github.
 
 ```
 root
+  └── _background/
   └── _contribute/
-  └── _decisions/
   └── _resources/
   └── LICENSE.md
   └── README.md
