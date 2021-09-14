@@ -42,6 +42,16 @@ style_mono_light(base_color = "#000000",
                  code_font_google   = google_font("Fira Mono"))
 ```
 
+class: center middle
+
+![](warning.png)
+
+### Changes Under Progress !
+
+#### Progress at your discretion.
+
+---
+
 class: left bottom
 
 # Northern Alliance of Scotland
