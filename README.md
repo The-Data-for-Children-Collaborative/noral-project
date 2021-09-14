@@ -2,6 +2,10 @@
 
 > How do we use novel data sets and techniques to effectively understand the impact of child poverty on education within urban and rural contexts?
 
+## Outputs
+
+You can follow the key outputs from the project [here](https://noral.netlify.app/).
+
 ## Background
 
 The Northern Alliance of Scotland is a regional improvement collaborative, spanning across and supporting 8 local authorities and their associated school settings to improve education and reduce the poverty related attainment gap. Within these settings, children, young people and their families live across a diverse range of urban and rural settlements.
@@ -14,16 +18,16 @@ You can read more about the project objectives [here](_background/project.md).
 
 ### Active Threads
 
-- [Stakeholder Research](https://github.com/The-Data-for-Children-Collaborative/noral-user-research)
 - [Design Research](https://github.com/The-Data-for-Children-Collaborative/noral-design-research)
+- [Stakeholder Research](https://github.com/The-Data-for-Children-Collaborative/noral-user-research)
+- [Data Research](https://github.com/The-Data-for-Children-Collaborative/noral-data-research)
 - [Tech Research](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research)
 
 ### Upcoming Threads
 > Upcoming activities on the project.
 
-- Stakeholder Interviews
-- Data Exploration
-- Platform Architecture
+- Platform Wireframes
+- Tech Architecture
 
 ## Partners
 
