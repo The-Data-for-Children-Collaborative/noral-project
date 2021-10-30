@@ -20,14 +20,7 @@ You can read more about the project objectives [here](_background/project.md).
 
 - [Design Research](https://github.com/The-Data-for-Children-Collaborative/noral-design-research)
 - [Stakeholder Research](https://github.com/The-Data-for-Children-Collaborative/noral-user-research)
-- [Data Research](https://github.com/The-Data-for-Children-Collaborative/noral-data-research)
 - [Tech Research](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research)
-
-### Upcoming Threads
-> Upcoming activities on the project.
-
-- Platform Wireframes
-- Tech Architecture
 
 ## Partners
 
